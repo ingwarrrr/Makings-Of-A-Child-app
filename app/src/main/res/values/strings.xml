@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TheMakingsOfAChild</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Авторизироваться</string>
+    <string name="typeOfGroups">Выберите группу</string>
+    <string name="chooseChild">Выберите ребенка</string>
+    <string name="chooseTypeOfInc">Выберите тип наклонности</string>
+    <string name="GetStart">Начать</string>
+    <string name="back">Назад</string>
+    <string name="save">Сохранить</string>
+    <string name="expandList">Развернуть список</string>
+    <string name="typeOfGroup">Вид группы</string>
+    <string name="tyoeOfInclination">Тип наклонности</string>
+    <string name="nameOfAChild">Имя ребенка</string>
+    <string name="chooseTheChild">Выберите ребёнка</string>
+    <string name="inclination">Выберите тип наклонности</string>
+    <string name="diagnostic">Провести диагностику</string>
+    <string name="profilechild">Профиль ребенка</string>
+    <string name="resofdiagnostic">Посмотреть результат диагностики</string>
+    <string name="chooseGrouop">Выберите группу</string>
+
+    <string-array name="types_of_groups">
+        <item>Дошкольники</item>
+        <item>Первый класс</item>
+        <item>Второй класс</item>
+        <item>Третий класс</item>
+        <item>Четвертый класс</item>
+    </string-array>
+    <string-array name="types_of_inclinations">
+        <item>Интеллектуальные задатки и наклонности</item>
+        <item>Логико–математические задатки и наклонности</item>
+        <item>Естественнонаучные задатки и наклонности</item>
+        <item>Задатки и наклонности творческого мышления</item>
+        <item>Двигательно-физкультурные задатки и наклонности</item>
+        <item>Музыкальные задатки и наклонности</item>
+        <item>Художественно-изобразительные задатки и наклонности</item>
+        <item>Лидерско-коммуникационные задатки и наклонности</item>
+        <item>Лингвистически-филологические задатки и наклонности</item>
+    </string-array>
+</resources>

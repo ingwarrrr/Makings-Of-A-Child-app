@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247528592614",
+    "project_id": "themakingsofachildbase",
+    "storage_bucket": "themakingsofachildbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247528592614:android:f5d1a2a849d72922fb1727",
+        "android_client_info": {
+          "package_name": "com.example.themakingsofachild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247528592614-2oe2igsj2tboi2ihq63a4jp7c4u59b1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYGY4fnoUqtfMhYcdWQEUGbWbF9F3lRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247528592614-2oe2igsj2tboi2ihq63a4jp7c4u59b1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
